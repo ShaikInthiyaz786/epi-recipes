@@ -70,10 +70,10 @@ PUT /epi_recipes
 "vegetarian": { "type": "boolean" },
 "gluten_free": { "type": "boolean" },
 "dairy_free": { "type": "boolean" }
-}
-}
-}
-}
+                }
+            }
+        }
+    }
 }
 ```
 
